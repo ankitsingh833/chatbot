@@ -1,6 +1,6 @@
 # Chappie the chatbot
 
-I made this simple retrieval based AI chatbot name Chappie using Python and tkinter GUI. 
+I made this simple retrieval based AI chatbot name Chappie using Python tkinter GUI and Tensorflow framework. 
 This chatbot app take text input from the user, process it and give instant pre-set response.
 Response phrases are fetched from responses.json file.
 The model is trained using patterns and tags data from training_data.csv file.
