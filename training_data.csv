@@ -1,0 +1,58 @@
+patterns,tags
+why were you created?,intro
+what should I call you?,intro
+who made you?,intro
+what is your name?,intro
+tell me about youself,intro
+what is your age?,intro
+what is your gender?,intro
+hii,greeting
+hi,greeting
+hey,greeting
+hello,greeting
+how are you,greeting
+good morning,greeting
+good afternoon,greeting
+good evening,greeting
+good night,greeting
+whatsup,greeting
+hlo,greeting
+wassup,greeting
+sup,greeting
+how much,payment
+is there is any offer?,query
+is discount available,query
+any discount offer,query
+what is the cost,query
+what is the total price,query
+total time for delivery,delivery
+how much time for delivery,delivery
+what is delivery charge,delivery
+is free delivery free?,delivery
+is delivery safe?,query
+what items do you sell,product
+what are the kind of products you sell,product
+do you take debit card,payment
+what you prefer master card or visa?,payment
+is pos service available?,payment
+Do you take credit card,payment
+how reliable is your service,query
+when will be it delivered,delivery
+what products do  sell,product
+Is UPI payment available,payment
+cash or card?,payment
+how to pay,payment
+debit or credit card?,payment
+can I pay cash on delivery,payment
+is cod available,payment
+bye,ending
+bye bye,ending
+tata,ending
+see you,ending
+see ya,ending
+good bye,ending
+take care,ending
+thank you,thanks
+thanks,thanks
+thanks for helping,thanks
+tq,thanks

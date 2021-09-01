@@ -1,0 +1,19 @@
+{
+    "intro":["I am a chatbot, how can i have a gender", "My name is Chappie", 
+        "I am an AI chatbot. I am made to help you"],
+    "greeting":["Hi! How are you doing.", "Hello! How's your day going.", "Hello", "Hi",
+        "Wassup! good to hear from you. How can i help you?", "Heya! happy to help you. Any queries?",
+        "Hi! Ask me anything.", "Hi! I'm ready to answer all your questions.", "Nice to meet you"],
+    "query":[ "Our service is safe and reliable.", "Our product price are in budget.", "It doesn't cost much.",
+            "We offer 15% discount on orders more than Rs. 5000."],
+    "payment":["You can pay using UPI.", "We provide COD option.", "We provide UPI and COD service.",
+                "Sorry! we dont accept cards.", "Sorry! no card payment available."],
+    "product":["We offer variety of products ranging from books, clothing, shoes, kitchenware, groceries, electronics."],
+    "delivery":["Orders will be delivered within 2-4 working days.", "Our delivery is free of charge.",
+                "Shipping is cost free."],
+    "ending":["Good bye.", "See you soon.", "Bye! hope you had a good experience.", 
+                "Any more questions?", "Hope you enjoyed my service.", "Shop with us again soon.", 
+                "Do you have any other questions?", "Visit us again."],
+    "thanks":["You are welcome.", "My pleasure :-)", "Chappie is happy helping you :-)", 
+                "pleased to be of assistance.", "it makes me happy to help."]
+}
